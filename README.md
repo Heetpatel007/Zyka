@@ -1,0 +1,2 @@
+# Zyka
+Zyka is a comprehensive backend API designed for food delivery and restaurant management. Built using NestJS and MongoDB, this system implements secure Role-Based Access Control (RBAC) to manage Staff, Admins, and Users. Key features include full CRUD operations for products, menus, and packages, a custom bidding system, and business verification workflows. It leverages Redis for efficient token management and Cloudinary for optimized image storage.
